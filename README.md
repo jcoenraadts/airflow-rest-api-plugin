@@ -1,5 +1,8 @@
 # Airflow REST API Plugin
 
+### Fork
+This code was forked from [teamclairvoyant](https://github.com/teamclairvoyant/airflow-rest-api-plugin) and converted to Python3. 
+
 ### Description
 
 A plugin for Apache Airflow (https://github.com/apache/incubator-airflow) that exposes REST endpoints for the Command Line Interfaces listed in the airflow documentation:
